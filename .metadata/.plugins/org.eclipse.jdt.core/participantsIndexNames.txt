@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+D:\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1031636423.index
+\mypatho\src
+D:\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\26438681.index
+\ediagnostic\src
+D:\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2722515776.index
+\ediagnostic\src
+D:\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\767459597.index
+\ediagnostic\src

@@ -1,0 +1,825 @@
+
+Jul 23, 2018 07:29:28.08 NEW SESSION
+Jul 23, 2018 07:29:28.08 [9460:10992:0723/072928.079:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 23, 2018 07:29:29.94 [9460:4212:0723/072929.940:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2018 07:29:58.95 [9460:4212:0723/072958.957:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2018 07:30:04.76 [9460:10992:0723/073004.760:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 23, 2018 07:30:05.63 [9460:10992:0723/073005.631:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 23, 2018 07:30:08.07 [9460:10992:0723/073008.075:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 23, 2018 07:30:34.30 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Jul 23, 2018 07:30:34.30 [9460:10992:0723/073034.306:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 23, 2018 07:30:58.51 [9460:4212:0723/073058.517:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2018 07:31:31.69 [9460:10992:0723/073131.694:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 23, 2018 07:32:37.47 [9460:4212:0723/073237.468:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2018 07:33:18.80 [9460:10992:0723/073318.802:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 23, 2018 07:35:24.52 [9460:4212:0723/073524.522:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2018 07:36:21.12 [9460:10992:0723/073621.123:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 23, 2018 07:40:52.37 [9460:4212:0723/074052.373:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2018 07:42:57.58 [9460:10992:0723/074257.587:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 23, 2018 07:50:52.37 [9460:4212:0723/075052.375:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2018 07:52:57.59 [9460:10992:0723/075257.590:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jul 25, 2018 23:43:31.48 NEW SESSION
+Jul 25, 2018 23:43:31.48 [5220:1052:0725/234331.480:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 25, 2018 23:43:32.82 [5220:1052:0725/234332.807:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.32 [5220:1052:0725/234332.808:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.32 [5220:1052:0725/234332.808:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.33 [5220:1052:0725/234332.808:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.33 [5220:1052:0725/234332.808:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.33 [5220:1052:0725/234332.808:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.33 [5220:1052:0725/234332.808:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.33 [5220:1052:0725/234332.808:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.33 [5220:1052:0725/234332.808:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.33 [5220:1052:0725/234332.809:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.33 [5220:1052:0725/234332.809:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.33 [5220:1052:0725/234332.809:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.34 [5220:1052:0725/234332.809:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.34 [5220:1052:0725/234332.809:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.34 [5220:1052:0725/234332.809:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.34 [5220:1052:0725/234332.809:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.34 [5220:1052:0725/234332.809:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.34 [5220:1052:0725/234332.810:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.35 [5220:1052:0725/234332.810:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.35 [5220:1052:0725/234332.810:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.35 [5220:1052:0725/234332.810:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 25, 2018 23:43:33.59 [5220:12228:0725/234333.594:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 25, 2018 23:43:54.37 [5220:12228:0725/234354.375:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 25, 2018 23:44:13.06 [5220:1052:0725/234413.061:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 25, 2018 23:44:13.62 [5220:1052:0725/234413.627:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 25, 2018 23:44:39.21 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Jul 25, 2018 23:44:39.21 [5220:12228:0725/234439.210:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+
+Jul 26, 2018 21:16:29.45 NEW SESSION
+Jul 26, 2018 21:16:29.45 [12684:14068:0726/211629.432:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 26, 2018 21:16:29.98 [12684:14068:0726/211629.986:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:29.98 [12684:14068:0726/211629.986:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:29.98 [12684:14068:0726/211629.986:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:29.98 [12684:14068:0726/211629.986:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:29.98 [12684:14068:0726/211629.986:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:29.98 [12684:14068:0726/211629.986:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:29.98 [12684:14068:0726/211629.986:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:29.98 [12684:14068:0726/211629.987:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:29.98 [12684:14068:0726/211629.987:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:29.99 [12684:14068:0726/211629.987:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:29.99 [12684:14068:0726/211629.987:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:29.99 [12684:14068:0726/211629.987:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:29.99 [12684:14068:0726/211629.987:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:29.99 [12684:14068:0726/211629.987:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:29.99 [12684:14068:0726/211629.987:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:30.00 [12684:14068:0726/211629.987:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:30.00 [12684:14068:0726/211629.987:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:30.00 [12684:14068:0726/211629.987:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:30.00 [12684:14068:0726/211629.987:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:30.00 [12684:14068:0726/211629.987:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:30.00 [12684:14068:0726/211629.987:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.13 [12052:13824:0726/211654.133:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 26, 2018 21:16:54.51 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.51 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.51 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.52 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.52 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.54 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.54 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.54 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.54 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.54 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.54 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.55 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.55 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.55 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.55 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.55 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.55 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.55 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.55 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.55 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:16:54.55 [12052:13824:0726/211654.517:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:18:12.84 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Jul 26, 2018 21:20:02.83 [2396:13220:0726/212002.839:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 26, 2018 21:20:03.23 [2396:13220:0726/212003.234:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.23 [2396:13220:0726/212003.234:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.23 [2396:13220:0726/212003.234:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.23 [2396:13220:0726/212003.234:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.23 [2396:13220:0726/212003.234:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.24 [2396:13220:0726/212003.234:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.24 [2396:13220:0726/212003.234:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.24 [2396:13220:0726/212003.234:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.24 [2396:13220:0726/212003.234:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.24 [2396:13220:0726/212003.234:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.24 [2396:13220:0726/212003.234:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.24 [2396:13220:0726/212003.234:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.24 [2396:13220:0726/212003.234:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.24 [2396:13220:0726/212003.234:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.24 [2396:13220:0726/212003.234:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.24 [2396:13220:0726/212003.234:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.24 [2396:13220:0726/212003.234:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.24 [2396:13220:0726/212003.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.24 [2396:13220:0726/212003.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.24 [2396:13220:0726/212003.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 21:20:03.24 [2396:13220:0726/212003.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+
+Jul 27, 2018 20:39:59.74 NEW SESSION
+Jul 27, 2018 20:39:59.74 [13680:14556:0727/203959.744:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 27, 2018 20:40:00.17 [13680:14556:0727/204000.171:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.17 [13680:14556:0727/204000.171:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.17 [13680:14556:0727/204000.171:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.17 [13680:14556:0727/204000.171:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.17 [13680:14556:0727/204000.171:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.18 [13680:14556:0727/204000.171:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.18 [13680:14556:0727/204000.171:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.18 [13680:14556:0727/204000.171:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.18 [13680:14556:0727/204000.171:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.18 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.19 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.19 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.19 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.20 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.20 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.25 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.25 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.25 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.25 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.25 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.26 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.26 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.26 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.26 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.26 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.26 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.29 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.30 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.30 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.35 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.35 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.35 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 20:40:00.35 [13680:14556:0727/204000.172:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 22:08:45.50 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Jul 27, 2018 22:08:45.50 [13680:14556:0727/220845.506:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 27, 2018 22:08:45.51 [13680:12152:0727/220845.513:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -7
+Jul 27, 2018 22:09:08.45 [13680:12152:0727/220908.451:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 27, 2018 22:09:08.61 [13680:14556:0727/220908.617:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 27, 2018 22:09:51.32 [13680:14556:0727/220951.325:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 27, 2018 22:09:59.92 [13680:12152:0727/220959.926:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 27, 2018 22:11:20.51 [13680:14556:0727/221120.515:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 27, 2018 22:11:37.76 [13680:12152:0727/221137.765:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 27, 2018 22:14:37.62 [13680:14556:0727/221437.626:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 27, 2018 22:14:38.08 [13680:12152:0727/221438.079:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 27, 2018 22:20:20.09 [13680:14556:0727/222020.091:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 27, 2018 22:21:21.52 [13680:12152:0727/222121.526:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 27, 2018 22:30:20.09 [13680:14556:0727/223020.096:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 27, 2018 22:31:21.53 [13680:12152:0727/223121.529:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 27, 2018 22:34:48.77 [13680:12152:0727/223448.769:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 27, 2018 22:34:51.73 [13680:12152:0727/223451.737:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 27, 2018 22:44:47.61 [13680:14556:0727/224447.611:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 27, 2018 22:53:13.69 [13680:14556:0727/225313.697:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 27, 2018 23:55:52.47 [13680:14556:0727/235552.471:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Jul 28, 2018 24:26:50.17 [13680:12152:0728/002650.176:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 24:27:20.12 [13680:12152:0728/002720.124:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 24:28:03.74 [13680:12152:0728/002803.739:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+
+Jul 28, 2018 10:41:08.03 NEW SESSION
+Jul 28, 2018 10:41:08.03 [11752:12616:0728/104108.028:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 28, 2018 10:41:10.05 [11752:10264:0728/104110.052:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 10:41:33.34 [11752:10264:0728/104133.345:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 10:41:44.76 [11752:12616:0728/104144.762:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 28, 2018 10:41:44.77 [11752:12616:0728/104144.775:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 28, 2018 10:42:22.94 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Jul 28, 2018 10:42:22.94 [11752:10264:0728/104222.938:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 10:43:52.54 [11752:10264:0728/104352.548:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 10:46:27.76 [11752:10264:0728/104627.760:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+
+Jul 28, 2018 12:49:14.11 NEW SESSION
+Jul 28, 2018 12:49:14.11 [11988:7540:0728/124914.105:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 28, 2018 12:49:17.18 [11988:7540:0728/124917.179:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.18 [11988:7540:0728/124917.179:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.18 [11988:7540:0728/124917.179:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.18 [11988:7540:0728/124917.179:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.18 [11988:7540:0728/124917.180:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.18 [11988:7540:0728/124917.180:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.19 [11988:7540:0728/124917.180:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.19 [11988:7540:0728/124917.180:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.19 [11988:7540:0728/124917.180:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.19 [11988:7540:0728/124917.181:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.19 [11988:7540:0728/124917.181:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.19 [11988:7540:0728/124917.181:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.19 [11988:7540:0728/124917.181:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.20 [11988:7540:0728/124917.181:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.20 [11988:7540:0728/124917.181:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.20 [11988:7540:0728/124917.181:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.20 [11988:7540:0728/124917.182:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.20 [11988:7540:0728/124917.182:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.20 [11988:7540:0728/124917.182:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.21 [11988:7540:0728/124917.182:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.21 [11988:7540:0728/124917.182:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.21 [11988:7540:0728/124917.182:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.21 [11988:7540:0728/124917.182:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.21 [11988:7540:0728/124917.182:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.21 [11988:7540:0728/124917.182:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.22 [11988:7540:0728/124917.183:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.22 [11988:7540:0728/124917.183:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.22 [11988:7540:0728/124917.183:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.22 [11988:7540:0728/124917.183:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.22 [11988:7540:0728/124917.183:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.22 [11988:7540:0728/124917.183:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.22 [11988:7540:0728/124917.183:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.23 [11988:7540:0728/124917.184:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.23 [11988:7540:0728/124917.184:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.23 [11988:7540:0728/124917.184:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:17.23 [11988:7540:0728/124917.184:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 28, 2018 12:49:22.06 [11988:14364:0728/124922.062:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 12:50:16.26 [11988:14364:0728/125016.262:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 12:50:34.31 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Jul 28, 2018 12:50:34.31 [11988:7540:0728/125034.315:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 28, 2018 12:50:34.31 [11988:7540:0728/125034.316:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 28, 2018 12:51:02.15 [11988:14364:0728/125102.156:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 12:52:24.66 [11988:14364:0728/125224.668:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 12:55:34.74 [11988:14364:0728/125534.745:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 12:56:20.77 [11988:7540:0728/125620.773:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 28, 2018 12:56:46.49 [11988:7540:0728/125646.489:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 28, 2018 12:57:44.45 [11988:7540:0728/125744.452:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 28, 2018 12:59:30.75 [11988:7540:0728/125930.751:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 28, 2018 13:02:37.80 [11988:7540:0728/130237.808:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 28, 2018 13:02:40.24 [11988:14364:0728/130240.245:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 13:09:59.28 [11988:7540:0728/130959.280:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 28, 2018 13:12:40.24 [11988:14364:0728/131240.248:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 13:19:59.28 [11988:7540:0728/131959.286:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 28, 2018 13:22:40.25 [11988:14364:0728/132240.251:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 13:29:59.29 [11988:7540:0728/132959.290:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 28, 2018 13:32:40.25 [11988:14364:0728/133240.252:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 13:39:59.29 [11988:7540:0728/133959.293:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 28, 2018 13:42:40.25 [11988:14364:0728/134240.256:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 13:49:59.30 [11988:7540:0728/134959.298:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 28, 2018 13:52:40.25 [11988:14364:0728/135240.258:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 13:59:59.30 [11988:7540:0728/135959.303:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 28, 2018 14:02:40.26 [11988:14364:0728/140240.262:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 14:09:59.30 [11988:7540:0728/140959.307:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 28, 2018 14:12:40.26 [11988:14364:0728/141240.264:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 14:19:59.31 [11988:7540:0728/141959.311:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 28, 2018 14:22:40.26 [11988:14364:0728/142240.266:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+
+Jul 30, 2018 20:57:11.08 NEW SESSION
+Jul 30, 2018 20:57:11.08 [8964:10848:0730/205711.069:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 30, 2018 20:57:14.87 [8964:9452:0730/205714.876:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 20:57:39.71 [8964:9452:0730/205739.715:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 20:57:52.04 [8964:10848:0730/205752.040:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 30, 2018 20:57:52.18 [8964:10848:0730/205752.181:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 30, 2018 20:58:34.73 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Jul 30, 2018 20:58:34.73 [8964:9452:0730/205834.736:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 21:00:13.52 [8964:9452:0730/210013.520:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 21:03:13.31 [8964:9452:0730/210313.313:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 21:03:34.17 [8964:9452:0730/210334.178:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 21:45:51.54 [8964:10848:0730/214551.544:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 30, 2018 21:45:51.57 [8964:9452:0730/214551.572:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 21:46:08.56 [8964:9452:0730/214608.560:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 30, 2018 21:46:08.87 [8964:4532:0730/214608.878:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 30, 2018 21:46:28.65 [8964:10848:0730/214628.656:ERROR:CONSOLE(143)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.facebook.com') does not match the recipient window's origin ('https://www.google.co.in').", source: chrome-search://most-visited/single.js (143)
+Jul 30, 2018 22:41:20.02 [8964:10848:0730/224120.027:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+
+Jul 31, 2018 20:37:08.55 NEW SESSION
+Jul 31, 2018 20:37:08.55 [11068:3528:0731/203708.545:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 31, 2018 20:37:10.07 [11068:3528:0731/203710.076:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.07 [11068:3528:0731/203710.076:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.08 [11068:3528:0731/203710.077:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.08 [11068:3528:0731/203710.077:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.08 [11068:3528:0731/203710.077:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.10 [11068:3528:0731/203710.077:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.10 [11068:3528:0731/203710.077:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.10 [11068:3528:0731/203710.077:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.11 [11068:3528:0731/203710.077:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.11 [11068:3528:0731/203710.077:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.11 [11068:3528:0731/203710.078:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.11 [11068:3528:0731/203710.078:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.11 [11068:3528:0731/203710.078:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.11 [11068:3528:0731/203710.078:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.12 [11068:3528:0731/203710.078:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.12 [11068:3528:0731/203710.078:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.12 [11068:3528:0731/203710.078:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.12 [11068:3528:0731/203710.078:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.13 [11068:3528:0731/203710.079:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.14 [11068:3528:0731/203710.079:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.15 [11068:3528:0731/203710.079:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.15 [11068:3528:0731/203710.079:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.15 [11068:3528:0731/203710.079:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.18 [11068:3528:0731/203710.079:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.19 [11068:3528:0731/203710.079:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.19 [11068:3528:0731/203710.079:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.19 [11068:3528:0731/203710.080:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.20 [11068:3528:0731/203710.080:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.20 [11068:3528:0731/203710.080:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.21 [11068:3528:0731/203710.080:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.21 [11068:3528:0731/203710.080:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.22 [11068:3528:0731/203710.080:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.22 [11068:3528:0731/203710.080:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.23 [11068:3528:0731/203710.081:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.23 [11068:3528:0731/203710.081:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.23 [11068:3528:0731/203710.081:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.23 [11068:3528:0731/203710.081:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.24 [11068:3528:0731/203710.081:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.24 [11068:3528:0731/203710.081:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.24 [11068:3528:0731/203710.081:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:37:10.24 [11068:3528:0731/203710.081:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 31, 2018 20:56:30.01 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Jul 31, 2018 20:56:30.02 [11068:7412:0731/205629.004:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 31, 2018 20:56:54.49 [11068:7412:0731/205654.492:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 31, 2018 20:57:52.97 [11068:7412:0731/205752.971:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 31, 2018 20:59:20.19 [11068:10508:0731/205920.191:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 31, 2018 20:59:23.85 [11068:7412:0731/205923.857:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 31, 2018 20:59:23.86 [11068:10508:0731/205923.868:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 31, 2018 20:59:26.61 [11068:7412:0731/205926.616:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+
+Aug 01, 2018 08:32:20.41 NEW SESSION
+Aug 01, 2018 08:32:20.41 [11428:11384:0801/083220.407:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Aug 01, 2018 08:32:24.76 [11428:12568:0801/083224.759:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 08:32:45.30 [11428:12568:0801/083245.300:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 08:33:03.64 [11428:11384:0801/083303.641:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Aug 01, 2018 08:33:03.96 [11428:11384:0801/083303.964:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Aug 01, 2018 08:33:26.90 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Aug 01, 2018 08:33:26.90 [11428:12568:0801/083326.903:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 08:34:15.12 [11428:11384:0801/083415.127:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 08:34:40.34 [11428:11384:0801/083440.348:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 08:35:00.30 [11428:12568:0801/083500.300:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 08:35:23.51 [11428:11384:0801/083523.513:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 08:36:56.14 [11428:11384:0801/083656.143:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 08:38:46.23 [11428:12568:0801/083846.236:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 08:40:28.62 [11428:11384:0801/084028.620:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 08:45:43.85 [11428:12568:0801/084543.857:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 08:46:49.22 [11428:12568:0801/084649.220:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2018 08:49:24.68 [11428:12568:0801/084924.683:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 08:50:02.24 [6104:6936:0801/085002.243:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Aug 01, 2018 08:50:04.14 [6104:6936:0801/085004.137:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.14 [6104:6936:0801/085004.138:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.14 [6104:6936:0801/085004.138:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.15 [6104:6936:0801/085004.138:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.15 [6104:6936:0801/085004.138:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.15 [6104:6936:0801/085004.138:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.16 [6104:6936:0801/085004.138:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.16 [6104:6936:0801/085004.138:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.16 [6104:6936:0801/085004.138:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.16 [6104:6936:0801/085004.138:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.16 [6104:6936:0801/085004.139:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.17 [6104:6936:0801/085004.139:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.18 [6104:6936:0801/085004.139:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.18 [6104:6936:0801/085004.139:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.18 [6104:6936:0801/085004.139:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.19 [6104:6936:0801/085004.139:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.19 [6104:6936:0801/085004.139:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.19 [6104:6936:0801/085004.139:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.20 [6104:6936:0801/085004.140:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.20 [6104:6936:0801/085004.140:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.20 [6104:6936:0801/085004.140:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.20 [6104:6936:0801/085004.140:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.20 [6104:6936:0801/085004.140:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.23 [6104:6936:0801/085004.140:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.23 [6104:6936:0801/085004.140:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.24 [6104:6936:0801/085004.140:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.24 [6104:6936:0801/085004.141:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.25 [6104:6936:0801/085004.141:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.25 [6104:6936:0801/085004.141:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.25 [6104:6936:0801/085004.141:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.25 [6104:6936:0801/085004.141:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.25 [6104:6936:0801/085004.141:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.29 [6104:6936:0801/085004.141:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.29 [6104:6936:0801/085004.141:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.30 [6104:6936:0801/085004.141:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.30 [6104:6936:0801/085004.141:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.30 [6104:6936:0801/085004.142:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.30 [6104:6936:0801/085004.142:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.31 [6104:6936:0801/085004.142:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.31 [6104:6936:0801/085004.142:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.31 [6104:6936:0801/085004.142:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.32 [6104:6936:0801/085004.142:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.32 [6104:6936:0801/085004.142:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 08:50:04.55 [6104:3204:0801/085004.551:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 08:50:34.51 [6104:3204:0801/085034.514:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 08:50:40.27 [6104:6936:0801/085040.273:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Aug 01, 2018 08:50:40.47 [6104:6936:0801/085040.470:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Aug 01, 2018 08:51:18.56 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Aug 01, 2018 08:51:18.57 [6104:3204:0801/085118.567:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 08:52:42.96 [6104:3204:0801/085242.959:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 08:56:42.88 [6104:3204:0801/085642.884:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 09:04:20.71 [6104:3204:0801/090420.710:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 09:14:20.71 [6104:3204:0801/091420.715:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 09:49:31.85 [6104:3204:0801/094931.857:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 09:49:53.85 [6104:3204:0801/094953.849:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 09:50:25.17 [6104:8740:0801/095025.174:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2018 09:50:44.72 [6104:3204:0801/095044.722:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 09:51:10.18 [6104:8740:0801/095110.180:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2018 09:52:21.03 [6104:3204:0801/095221.034:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 09:53:02.18 [6104:8740:0801/095302.185:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2018 09:55:06.96 [6104:3204:0801/095506.963:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 09:55:50.19 [6104:8740:0801/095550.191:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2018 09:59:00.49 [6104:6936:0801/095900.495:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 09:59:28.33 [6104:6936:0801/095928.338:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 10:00:22.67 [6104:6936:0801/100022.673:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 10:02:20.88 [6104:6936:0801/100220.888:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 10:02:49.93 [6104:3204:0801/100249.930:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 10:02:50.19 [6104:8740:0801/100250.197:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2018 10:05:35.66 [6104:6936:0801/100535.662:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 10:11:06.83 [6104:6936:0801/101106.834:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 10:12:49.93 [6104:3204:0801/101249.932:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 10:12:50.20 [6104:8740:0801/101250.202:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2018 10:21:06.86 [6104:6936:0801/102106.862:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 10:22:49.93 [6104:3204:0801/102249.935:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 10:22:50.20 [6104:8740:0801/102250.209:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2018 10:31:06.86 [6104:6936:0801/103106.868:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 10:32:03.78 [6104:6936:0801/103203.783:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Aug 01, 2018 10:34:56.19 [6104:6936:0801/103456.198:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Aug 01, 2018 10:52:56.75 [6104:6936:0801/105256.752:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Aug 01, 2018 11:23:38.41 [6104:3204:0801/112338.411:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 11:23:44.30 [6104:8740:0801/112344.299:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2018 11:24:20.64 [1472:10400:0801/112420.644:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Aug 01, 2018 11:24:22.01 [1472:10400:0801/112422.008:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.01 [1472:10400:0801/112422.009:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.01 [1472:10400:0801/112422.009:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.02 [1472:10400:0801/112422.010:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.02 [1472:10400:0801/112422.010:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.02 [1472:10400:0801/112422.010:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.02 [1472:10400:0801/112422.010:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.02 [1472:10400:0801/112422.010:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.02 [1472:10400:0801/112422.010:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.06 [1472:10400:0801/112422.011:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.06 [1472:10400:0801/112422.011:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.06 [1472:10400:0801/112422.011:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.06 [1472:10400:0801/112422.011:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.06 [1472:10400:0801/112422.011:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.06 [1472:10400:0801/112422.011:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.06 [1472:10400:0801/112422.011:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.07 [1472:10400:0801/112422.012:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.07 [1472:10400:0801/112422.012:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.07 [1472:10400:0801/112422.012:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.07 [1472:10400:0801/112422.013:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.07 [1472:10400:0801/112422.013:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.07 [1472:10400:0801/112422.013:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.07 [1472:10400:0801/112422.013:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.07 [1472:10400:0801/112422.013:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.07 [1472:10400:0801/112422.013:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.08 [1472:10400:0801/112422.013:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.08 [1472:10400:0801/112422.014:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.08 [1472:10400:0801/112422.014:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.08 [1472:10400:0801/112422.014:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.12 [1472:10400:0801/112422.014:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.12 [1472:10400:0801/112422.014:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.12 [1472:10400:0801/112422.014:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.12 [1472:10400:0801/112422.014:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.13 [1472:10400:0801/112422.014:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.13 [1472:10400:0801/112422.015:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.13 [1472:10400:0801/112422.015:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.13 [1472:10400:0801/112422.015:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.13 [1472:10400:0801/112422.015:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.14 [1472:10400:0801/112422.016:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.14 [1472:10400:0801/112422.016:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.14 [1472:10400:0801/112422.016:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.14 [1472:10400:0801/112422.016:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.15 [1472:10400:0801/112422.016:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:24:22.56 [1472:224:0801/112422.565:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 11:24:51.47 [1472:224:0801/112451.473:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 11:46:17.71 [13092:14116:0801/114617.715:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Aug 01, 2018 11:46:19.08 [13092:14116:0801/114619.080:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.08 [13092:14116:0801/114619.080:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.08 [13092:14116:0801/114619.080:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.08 [13092:14116:0801/114619.080:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.08 [13092:14116:0801/114619.080:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.08 [13092:14116:0801/114619.081:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.08 [13092:14116:0801/114619.081:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.08 [13092:14116:0801/114619.081:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.09 [13092:14116:0801/114619.081:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.09 [13092:14116:0801/114619.081:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.09 [13092:14116:0801/114619.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.09 [13092:14116:0801/114619.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.09 [13092:14116:0801/114619.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.09 [13092:14116:0801/114619.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.09 [13092:14116:0801/114619.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.09 [13092:14116:0801/114619.083:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.09 [13092:14116:0801/114619.083:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.10 [13092:14116:0801/114619.083:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.10 [13092:14116:0801/114619.083:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.10 [13092:14116:0801/114619.083:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.10 [13092:14116:0801/114619.083:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.10 [13092:14116:0801/114619.084:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.10 [13092:14116:0801/114619.084:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.10 [13092:14116:0801/114619.084:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.10 [13092:14116:0801/114619.084:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.10 [13092:14116:0801/114619.084:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.11 [13092:14116:0801/114619.084:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.11 [13092:14116:0801/114619.084:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.11 [13092:14116:0801/114619.084:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.11 [13092:14116:0801/114619.084:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.11 [13092:14116:0801/114619.084:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.12 [13092:14116:0801/114619.085:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.12 [13092:14116:0801/114619.085:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.12 [13092:14116:0801/114619.085:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.12 [13092:14116:0801/114619.085:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.12 [13092:14116:0801/114619.085:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.12 [13092:14116:0801/114619.085:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.12 [13092:14116:0801/114619.085:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.12 [13092:14116:0801/114619.085:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.12 [13092:14116:0801/114619.085:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.12 [13092:14116:0801/114619.085:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.13 [13092:14116:0801/114619.085:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.13 [13092:14116:0801/114619.085:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 11:46:19.39 [13092:3348:0801/114619.393:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 11:46:42.29 [13092:3348:0801/114642.289:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 11:46:53.20 [13092:14116:0801/114653.198:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Aug 01, 2018 11:47:01.85 [13092:14116:0801/114701.858:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Aug 01, 2018 11:47:32.71 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Aug 01, 2018 11:47:32.71 [13092:3348:0801/114732.713:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 11:49:28.66 [13092:3348:0801/114928.668:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 11:52:42.05 [13092:3348:0801/115242.049:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 11:54:00.69 [13092:14116:0801/115400.689:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 11:54:26.27 [13092:14116:0801/115426.277:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 11:55:09.77 [13092:14116:0801/115509.770:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 11:56:42.57 [13092:14116:0801/115642.577:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 11:59:16.48 [13092:3348:0801/115916.486:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 11:59:41.44 [13092:14116:0801/115941.441:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 12:01:41.33 [13092:3348:0801/120141.338:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 12:04:45.73 [3312:10576:0801/120445.736:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Aug 01, 2018 12:04:47.35 [3312:10576:0801/120447.298:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.35 [3312:10576:0801/120447.299:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.37 [3312:10576:0801/120447.299:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.37 [3312:10576:0801/120447.299:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.37 [3312:10576:0801/120447.299:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.38 [3312:10576:0801/120447.299:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.38 [3312:10576:0801/120447.299:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.39 [3312:10576:0801/120447.299:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.40 [3312:10576:0801/120447.299:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.40 [3312:10576:0801/120447.300:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.40 [3312:10576:0801/120447.300:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.40 [3312:10576:0801/120447.300:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.40 [3312:10576:0801/120447.300:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.40 [3312:10576:0801/120447.300:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.40 [3312:10576:0801/120447.300:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.40 [3312:10576:0801/120447.301:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.41 [3312:10576:0801/120447.301:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.41 [3312:10576:0801/120447.301:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.41 [3312:10576:0801/120447.301:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.41 [3312:10576:0801/120447.301:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.41 [3312:10576:0801/120447.301:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.41 [3312:10576:0801/120447.301:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.41 [3312:10576:0801/120447.302:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.41 [3312:10576:0801/120447.302:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.41 [3312:10576:0801/120447.302:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.42 [3312:10576:0801/120447.302:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.42 [3312:10576:0801/120447.302:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.44 [3312:10576:0801/120447.302:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.44 [3312:10576:0801/120447.302:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.44 [3312:10576:0801/120447.302:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.44 [3312:10576:0801/120447.302:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.46 [3312:10576:0801/120447.302:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.46 [3312:10576:0801/120447.302:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.46 [3312:10576:0801/120447.302:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.46 [3312:10576:0801/120447.303:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.46 [3312:10576:0801/120447.303:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.47 [3312:10576:0801/120447.303:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.47 [3312:10576:0801/120447.325:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.47 [3312:10576:0801/120447.325:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.47 [3312:10576:0801/120447.326:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.47 [3312:10576:0801/120447.326:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.48 [3312:10576:0801/120447.326:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.48 [3312:10576:0801/120447.326:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 12:04:47.71 [3312:7432:0801/120447.716:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 12:05:15.92 [3312:7432:0801/120515.919:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 12:05:24.02 [3312:10576:0801/120524.019:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Aug 01, 2018 12:05:24.23 [3312:10576:0801/120524.236:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Aug 01, 2018 12:06:11.18 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Aug 01, 2018 12:06:11.19 [3312:7432:0801/120611.188:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 12:07:39.08 [3312:7432:0801/120739.086:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+
+Aug 01, 2018 12:56:43.43 NEW SESSION
+Aug 01, 2018 12:56:43.43 [6928:360:0801/125643.432:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Aug 01, 2018 12:56:46.46 [6928:13132:0801/125646.467:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 12:57:06.88 [6928:13132:0801/125706.883:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 12:57:22.74 [6928:360:0801/125722.745:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Aug 01, 2018 12:57:23.34 [6928:360:0801/125723.332:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Aug 01, 2018 12:58:04.34 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Aug 01, 2018 12:58:04.34 [6928:13132:0801/125804.344:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 12:59:31.69 [6928:13132:0801/125931.693:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 13:02:57.78 [6928:13132:0801/130257.785:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 13:06:33.17 [13648:1032:0801/130633.175:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Aug 01, 2018 13:06:34.64 [13648:1032:0801/130634.642:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.64 [13648:1032:0801/130634.643:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.65 [13648:1032:0801/130634.643:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.65 [13648:1032:0801/130634.643:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.66 [13648:1032:0801/130634.643:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.67 [13648:1032:0801/130634.643:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.67 [13648:1032:0801/130634.643:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.67 [13648:1032:0801/130634.643:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.67 [13648:1032:0801/130634.643:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.68 [13648:1032:0801/130634.644:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.68 [13648:1032:0801/130634.644:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.69 [13648:1032:0801/130634.644:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.69 [13648:1032:0801/130634.644:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.69 [13648:1032:0801/130634.644:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.69 [13648:1032:0801/130634.644:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.69 [13648:1032:0801/130634.644:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.69 [13648:1032:0801/130634.644:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.70 [13648:1032:0801/130634.645:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.70 [13648:1032:0801/130634.645:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.71 [13648:1032:0801/130634.645:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.71 [13648:1032:0801/130634.645:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.71 [13648:1032:0801/130634.645:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.86 [13648:1032:0801/130634.645:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.86 [13648:1032:0801/130634.645:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.92 [13648:1032:0801/130634.645:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.92 [13648:1032:0801/130634.645:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.93 [13648:1032:0801/130634.646:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.93 [13648:1032:0801/130634.646:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.93 [13648:1032:0801/130634.646:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.93 [13648:1032:0801/130634.646:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.93 [13648:1032:0801/130634.646:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.93 [13648:1032:0801/130634.646:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.93 [13648:1032:0801/130634.646:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.94 [13648:1032:0801/130634.646:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.95 [13648:1032:0801/130634.646:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.95 [13648:1032:0801/130634.647:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:34.95 [13648:1032:0801/130634.647:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:35.06 [13648:1032:0801/130634.648:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:35.07 [13648:1032:0801/130634.648:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:35.07 [13648:1032:0801/130634.648:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:35.08 [13648:1032:0801/130634.648:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:35.08 [13648:1032:0801/130634.648:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:35.08 [13648:1032:0801/130634.648:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:06:35.43 [13648:13424:0801/130635.432:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 13:07:05.30 [13648:13424:0801/130705.305:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 13:07:10.52 [13648:1032:0801/130710.522:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Aug 01, 2018 13:07:11.13 [13648:1032:0801/130711.138:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Aug 01, 2018 13:08:04.56 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Aug 01, 2018 13:08:04.56 [13648:13424:0801/130804.564:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 13:09:58.40 [13648:13424:0801/130958.399:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 13:13:11.16 [13648:1032:0801/131311.161:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 13:13:36.74 [13648:13424:0801/131336.744:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 13:13:39.74 [13648:1032:0801/131339.744:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 13:14:25.24 [13648:1032:0801/131425.242:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 13:16:22.21 [13648:1032:0801/131622.214:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 13:20:12.72 [13648:1032:0801/132012.726:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 13:21:14.13 [13648:13424:0801/132114.132:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 13:28:01.99 [13648:1032:0801/132801.992:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 13:31:14.13 [13648:13424:0801/133114.135:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 13:34:58.54 [13400:1064:0801/133458.546:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Aug 01, 2018 13:34:59.88 [13400:1064:0801/133459.886:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.88 [13400:1064:0801/133459.886:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.88 [13400:1064:0801/133459.887:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.89 [13400:1064:0801/133459.887:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.89 [13400:1064:0801/133459.887:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.89 [13400:1064:0801/133459.887:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.89 [13400:1064:0801/133459.887:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.89 [13400:1064:0801/133459.887:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.89 [13400:1064:0801/133459.887:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.89 [13400:1064:0801/133459.888:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.89 [13400:1064:0801/133459.888:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.90 [13400:1064:0801/133459.888:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.90 [13400:1064:0801/133459.888:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.90 [13400:1064:0801/133459.888:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.90 [13400:1064:0801/133459.888:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.90 [13400:1064:0801/133459.889:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.90 [13400:1064:0801/133459.889:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.90 [13400:1064:0801/133459.889:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.91 [13400:1064:0801/133459.889:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.91 [13400:1064:0801/133459.889:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.91 [13400:1064:0801/133459.889:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.91 [13400:1064:0801/133459.889:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.91 [13400:1064:0801/133459.889:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.91 [13400:1064:0801/133459.889:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.91 [13400:1064:0801/133459.889:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.92 [13400:1064:0801/133459.889:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.92 [13400:1064:0801/133459.890:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.92 [13400:1064:0801/133459.890:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.92 [13400:1064:0801/133459.890:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.92 [13400:1064:0801/133459.890:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.92 [13400:1064:0801/133459.890:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.93 [13400:1064:0801/133459.890:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.93 [13400:1064:0801/133459.891:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.93 [13400:1064:0801/133459.891:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.93 [13400:1064:0801/133459.891:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.93 [13400:1064:0801/133459.891:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.94 [13400:1064:0801/133459.891:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.94 [13400:1064:0801/133459.891:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.94 [13400:1064:0801/133459.891:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.94 [13400:1064:0801/133459.891:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.94 [13400:1064:0801/133459.891:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.94 [13400:1064:0801/133459.892:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:34:59.94 [13400:1064:0801/133459.892:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Aug 01, 2018 13:35:00.38 [13400:1656:0801/133500.385:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 13:35:23.37 [13400:1656:0801/133523.372:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 13:35:38.58 [13400:1064:0801/133538.582:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Aug 01, 2018 13:35:38.65 [13400:1064:0801/133538.658:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Aug 01, 2018 13:36:03.76 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Aug 01, 2018 13:36:03.76 [13400:1656:0801/133603.766:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 13:37:43.28 [13400:1656:0801/133743.285:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 13:38:56.53 [13400:1064:0801/133856.534:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 13:39:22.60 [13400:1064:0801/133922.600:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 13:40:17.42 [13400:1064:0801/134017.423:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 13:41:22.50 [13400:1656:0801/134122.507:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 13:41:38.47 [13400:1064:0801/134138.469:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 13:44:59.55 [13400:1064:0801/134459.549:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 13:47:11.74 [13400:1656:0801/134711.739:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 13:49:35.71 [13400:1656:0801/134935.711:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 14:10:46.51 [13400:1064:0801/141046.519:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2018 14:10:46.54 [13400:1656:0801/141046.543:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2018 14:12:19.29 [13400:1656:0801/141219.294:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+
+Aug 05, 2018 15:00:21.27 NEW SESSION
+Aug 05, 2018 15:00:21.27 [15204:2388:0805/150021.272:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 05, 2018 15:00:50.01 [15204:2388:0805/150050.017:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 05, 2018 15:00:53.47 [15204:9492:0805/150053.470:ERROR:account_tracker.cc(253)] OnGetTokenFailure: Connection failed (-106).
+Aug 05, 2018 15:00:54.32 [15204:9492:0805/150054.329:ERROR:account_tracker.cc(253)] OnGetTokenFailure: Connection failed (-106).
+Aug 05, 2018 15:01:04.76 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Aug 05, 2018 15:01:38.44 [15204:2388:0805/150138.447:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Aug 05, 2018 15:03:02.41 [15204:2388:0805/150302.410:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Aug 05, 2018 15:06:08.73 [8956:15080:0805/150608.732:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.73 [8956:15080:0805/150608.732:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.73 [8956:15080:0805/150608.732:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.73 [8956:15080:0805/150608.732:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.73 [8956:15080:0805/150608.732:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.73 [8956:15080:0805/150608.732:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.73 [8956:15080:0805/150608.732:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.73 [8956:15080:0805/150608.732:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.73 [8956:15080:0805/150608.732:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.73 [8956:15080:0805/150608.732:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.73 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.73 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.74 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.74 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.74 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.75 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.76 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.76 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.76 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.76 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.76 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.76 [8956:15080:0805/150608.733:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.76 [8956:15080:0805/150608.734:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.76 [8956:15080:0805/150608.734:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.76 [8956:15080:0805/150608.734:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.76 [8956:15080:0805/150608.734:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:08.76 [8956:15080:0805/150608.734:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:06:53.71 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Aug 05, 2018 15:34:27.53 [8956:3716:0805/153427.538:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Aug 05, 2018 15:34:28.60 [8956:1352:0805/153428.605:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Aug 05, 2018 15:34:35.96 [8956:1352:0805/153435.963:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Aug 05, 2018 15:47:26.49 [6900:13300:0805/154726.494:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.49 [6900:13300:0805/154726.494:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.49 [6900:13300:0805/154726.494:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.49 [6900:13300:0805/154726.494:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.49 [6900:13300:0805/154726.494:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.49 [6900:13300:0805/154726.494:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.49 [6900:13300:0805/154726.494:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.49 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.49 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.49 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.49 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.49 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.50 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.51 [6900:13300:0805/154726.495:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.51 [6900:13300:0805/154726.496:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.51 [6900:13300:0805/154726.496:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.51 [6900:13300:0805/154726.496:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.51 [6900:13300:0805/154726.496:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.51 [6900:13300:0805/154726.496:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:47:26.51 [6900:13300:0805/154726.496:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Aug 05, 2018 15:48:11.48 Unable to read VR Path Registry from C:\Users\ROHIT\AppData\Local\openvr\openvrpaths.vrpath
+Aug 05, 2018 15:51:27.15 [6900:13300:0805/155127.157:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Aug 05, 2018 15:52:13.91 [6900:13300:0805/155213.911:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Aug 05, 2018 16:07:43.55 [6900:13300:0805/160743.557:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Aug 05, 2018 16:10:40.87 [6900:13300:0805/161040.873:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Aug 05, 2018 16:13:17.35 [6900:13300:0805/161317.357:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
